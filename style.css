@@ -406,6 +406,8 @@ form>a{
 	position: relative;
 	left:-20px;
 	top: 70px;
+	max-height: 150px;
+	overflow: hidden;
 }
 a{
 	text-decoration:none;
